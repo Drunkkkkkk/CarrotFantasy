@@ -1,0 +1,8 @@
+{
+    "title": "CarrotFantasy",
+    "identifier": "com.yourcompany.wizardEVP.CarrotFantasy",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}

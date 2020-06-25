@@ -1,0 +1,28 @@
+{"frames": {
+
+"huowu1.png":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":84},
+	"sourceSize": {"w":106,"h":84}
+},
+"huowu2.png":
+{
+	"frame": {"x":106,"y":0,"w":100,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":87},
+	"sourceSize": {"w":100,"h":87}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "huowu.png",
+	"format": "RGBA8888",
+	"size": {"w":206,"h":87},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ea12ccc8d113cb2b000a8dfa4825dfb:f6627749a650a2451ce8eb3df84c0244:0d3e82b57f9ee3d952728d02c8e44cc6$"
+}
+}

@@ -1,0 +1,108 @@
+{"frames": {
+
+"blank1.png":
+{
+	"frame": {"x":323,"y":53,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":48,"h":48},
+	"sourceSize": {"w":50,"h":50}
+},
+"blank2.png":
+{
+	"frame": {"x":321,"y":1,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"route1.png":
+{
+	"frame": {"x":1,"y":67,"w":64,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":58},
+	"sourceSize": {"w":64,"h":64}
+},
+"route2.png":
+{
+	"frame": {"x":262,"y":64,"w":62,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":62,"h":59},
+	"sourceSize": {"w":64,"h":64}
+},
+"route3.png":
+{
+	"frame": {"x":65,"y":1,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":62,"h":63},
+	"sourceSize": {"w":64,"h":64}
+},
+"route4.png":
+{
+	"frame": {"x":195,"y":1,"w":62,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":62,"h":61},
+	"sourceSize": {"w":64,"h":64}
+},
+"route5.png":
+{
+	"frame": {"x":133,"y":64,"w":61,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":61,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"route6.png":
+{
+	"frame": {"x":129,"y":1,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":64,"h":61},
+	"sourceSize": {"w":64,"h":64}
+},
+"route7.png":
+{
+	"frame": {"x":1,"y":1,"w":64,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":64,"h":62},
+	"sourceSize": {"w":64,"h":64}
+},
+"route8.png":
+{
+	"frame": {"x":259,"y":1,"w":61,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":61,"h":60},
+	"sourceSize": {"w":64,"h":64}
+},
+"route9.png":
+{
+	"frame": {"x":199,"y":64,"w":61,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":61,"h":62},
+	"sourceSize": {"w":64,"h":64}
+},
+"route10.png":
+{
+	"frame": {"x":67,"y":66,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":64,"h":61},
+	"sourceSize": {"w":64,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "route.png",
+	"format": "RGBA8888",
+	"size": {"w":372,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:35b47d6b6870af8730c5e7283023d396:4b408066dbfe0cb48612ffa52a5de13b:8e3c320ede1b2d8efd08b88dfa1991fa$"
+}
+}
